@@ -1,4 +1,4 @@
-## Statistics for chosen datasets from PDB and uniprot
+## Statistics for chosen datasets from PDB and uniprot (large databases with protein information records)
 #### Folder scripts includes python scripts that download, process and plot statistics based on sequences from PDB and Uniprot records.
 ### To recreate plots and tables:
 1. Run `download_datasets.py` to download fasta files representing chosen datasets.
